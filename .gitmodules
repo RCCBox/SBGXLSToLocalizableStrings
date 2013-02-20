@@ -1,0 +1,3 @@
+[submodule "App/Vendor/DHlibxls"]
+	path = App/Vendor/DHlibxls
+	url = git://github.com/dhoerl/DHlibxls.git
