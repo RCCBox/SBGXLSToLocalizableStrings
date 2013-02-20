@@ -7,6 +7,14 @@ Replace the XCode Localizable.strings mush with a single Excel file.
 * Converts localization key value pairs from Excel files to a localized directory structure and Localizable.strings files as used by Xcode.
 *  Takes care of conversion of special characters (linebreaks and so on)
 
+### Project Setup
+
+Clone the project including submodules:
+
+	$ git clone --recursive https://github.com/robertoseidenberg/SBGXLSToLocalizableStrings.git
+	
+Build and run the project using XCode.
+
 ### Exel format specifications
 
 See the included HelloWorld.xls. 
